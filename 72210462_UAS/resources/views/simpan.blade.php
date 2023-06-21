@@ -1,0 +1,1 @@
+<p>Gender yang dipilih = {{$simpan}}</p>
